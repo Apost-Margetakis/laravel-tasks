@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'phpmysql2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B70CC55B3BE483E982539DCF90E3933 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D449A592FBE54550BFFDBB48F55F8B11 }}
           package: .
